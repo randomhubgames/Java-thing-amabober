@@ -1,0 +1,2 @@
+module eexample_project {
+}
